@@ -16,7 +16,7 @@ body {
 .profile_image img {
     width: 150px;
     height: 150px;
-    border: 2px solid linear-gradient(rgb(252,238,33), rgb(255,255,255));
+    border: 2px solid #C0007A;
     border-radius: 99999999px;
 }
 .profile_image {
