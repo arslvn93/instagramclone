@@ -8,7 +8,7 @@ export default function Profile() {
     }, [])
 
     const getPosts = async () => {
-        fetch('https://insta-profile-caa84-default-rtdb.firebaseio.com/posts.json').then(res => res.json())
+        fetch('https://sickcondosinsta-default-rtdb.firebaseio.com/posts.json').then(res => res.json())
         .then(res => {
             if (res != null) {
                 const items = [];
