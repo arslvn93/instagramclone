@@ -26,13 +26,14 @@ export default function Profile() {
             <div class="">
                 <div class="w-75 pt-5 profile">
                     <div class="profile_image">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQsu34yqIKdjK5cAWEcuUq3ryD30iiqd2ArQ&usqp=CAU" />
+                        <img src="https://i.imgur.com/Otl9uRD.jpg" />
                     </div>
                     <div class="mt-3">
-                        <p class="username">itsdeveloper6</p>
+                        <p class="username">sickcondos</p>
                         <div>
-                            <h5 class="name">Hamza Javed</h5>
-                            <p class='description d-md-block d-none'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                            <h5 class="name">Condo Listings</h5>
+                            <p class='description d-md-block d-none'>Click on the images below to view the full listing details!
+ </p>
                         </div>
                     </div>
                 </div>
